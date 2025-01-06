@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-01-06 06:24:10,url
+2025-01-07 06:25:07,url
 港澳频道,#genre#
 AMC电影台,https://stream1.freetv.fun/amcdian-ying-2.m3u8
 TVB翡翠剧集,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8$1920x1080
@@ -63,15 +63,15 @@ TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8$1920x1080
 动物星球,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8$3840x2160
 动物星球,https://stream1.freetv.fun/dong-wu-xing-qiu-1.m3u8
 动物星球,https://stream1.freetv.fun/dong-wu-xing-qiu-4.m3u8
-番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8?blog.ntnas.top
-番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
-番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
-番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8$1920x1080
+番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8$1920x1080
+番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8?blog.ntnas.top$1920x1080
+番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8$1920x1080
+番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8$1920x1080
+番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8$1920x1080
+番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8$1920x1080
+番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8$1920x1080
+番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8$1920x1080
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://r.jdshipin.com/qrfbg
 翡翠台,http://r.jdshipin.com/62WM7
@@ -147,7 +147,6 @@ TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8$1920x1080
 凤凰资讯台,https://stream1.freetv.fun/2a72335a63dd0749c5a32d1bf1b0c001a81a26cc81d7e94534791d36f2c87d7d.ctv
 凤凰资讯台,https://stream1.freetv.fun/feng-huang-zi-xun-3.ctv
 凤凰资讯台,https://stream1.freetv.fun/feng-huang-zi-xun-25.ctv
-凤凰资讯台,http://udnhls.skilldns.com:80/fhzx-cn.m3u8
 凤凰资讯台,https://stream1.freetv.fun/feng-huang-zi-xun-15.ctv
 凤凰资讯台,https://stream1.freetv.fun/feng-huang-zi-xun-21.ctv
 凤凰资讯台,http://www.terrykang.cn:5678/sxg.php?id=test2_4000
@@ -167,6 +166,7 @@ TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8$1920x1080
 凤凰资讯台,https://stream1.freetv.fun/feng-huang-zi-xun-10.ctv
 凤凰资讯台,https://stream1.freetv.fun/feng-huang-zi-xun-25.m3u8
 凤凰资讯台,https://stream1.freetv.fun/feng-huang-zi-xun-22.ctv
+凤凰资讯台,https://stream1.freetv.fun/feng-huang-zi-xun-17.ctv
 华视,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8$1920x1080
 华视新闻台,https://stream1.freetv.fun/hua-shi-2.m3u8
 华视新闻台,http://37.27.111.214:8080/live/8/hls.m3u8$1920x1080
