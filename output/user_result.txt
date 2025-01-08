@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-01-08 06:25:25,url
+2025-01-08 18:23:04,url
 港澳频道,#genre#
 AMC电影台,https://stream1.freetv.fun/amcdian-ying-2.m3u8
 TVB翡翠剧集,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8$1920x1080
@@ -28,6 +28,9 @@ TVB明珠剧集,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8$1920x1080
 三立戏剧台,https://stream1.freetv.fun/san-li-xi-ju-4.m3u8
 TVB星河,https://tv.mytvsuper.xyz/tvb/xinghe/xinghe.m3u8
 TVB星河台,https://tv.mytvsuper.xyz/tvb/xinghe/xinghe.m3u8
+TVB翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+TVB翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+TVB翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 TVBS欢乐台,http://37.27.111.214:8080/live/24/hls.m3u8$1920x1080
 TVBS新闻台,http://125.227.210.55:8186/VideoInput/play.ts$1920x1080
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8$1920x1080
@@ -36,6 +39,7 @@ TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8$1920x1080
 八大精彩台,https://stream1.freetv.fun/ba-da-jing-cai-1.ctv
 八大综合台,https://stream1.freetv.fun/ba-da-zong-he-2.m3u8
 八大综合台,https://stream1.freetv.fun/ba-da-zong-he-1.m3u8
+大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 东森财经,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV03.m3u8
 东森财经,https://raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV03.m3u8
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
