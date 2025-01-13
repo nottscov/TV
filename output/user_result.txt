@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-01-13 06:24:18,url
+2025-01-13 18:21:48,url
 港澳频道,#genre#
 AMC电影台,https://stream1.freetv.fun/amcdian-ying-2.m3u8
 TVB翡翠剧集,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8$1920x1080
@@ -12,7 +12,6 @@ TVB明珠剧集,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8$1920x1080
 东森电影台,https://stream1.freetv.fun/dong-sen-dian-ying-2.m3u8
 东森电影台,https://stream1.freetv.fun/dong-sen-dian-ying-7.ctv
 东森电影台,https://bsex.serv00.net/Smart.php?id=ettvmovie
-东森戏剧台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvdrama
 公视戏剧台,https://stream1.freetv.fun/gong-shi-xi-ju-1.ctv
 龙华电影台,http://37.27.111.214:8080/live/19/hls.m3u8$1920x1080
 龙华电影台,https://stream1.freetv.fun/1178a02eb676ee58293691fdc19fed767b2dc61d866c1fee41447a8503ec0253.m3u8
@@ -31,11 +30,11 @@ TVB星河台,https://tv.mytvsuper.xyz/tvb/xinghe/xinghe.m3u8
 TVBS欢乐台,http://37.27.111.214:8080/live/24/hls.m3u8$1920x1080
 TVBS新闻台,http://125.227.210.55:8186/VideoInput/play.ts$1920x1080
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8$1920x1080
-八大第一台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=badafirst
 八大精彩台,https://stream1.freetv.fun/ba-da-jing-cai-2.ctv
 八大精彩台,https://stream1.freetv.fun/ba-da-jing-cai-1.ctv
 八大综合台,https://stream1.freetv.fun/ba-da-zong-he-2.m3u8
 八大综合台,https://stream1.freetv.fun/ba-da-zong-he-1.m3u8
+大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 东森财经,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV03.m3u8
 东森财经,https://raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV03.m3u8
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
@@ -284,7 +283,6 @@ TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8$1920x1080
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40$1920x1080
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40$1920x1080
 纬来体育,https://stream1.freetv.fun/wei-lai-ti-yu-3.m3u8
-无线翡翠,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=jade_twn
 无线新闻台,http://cdn.iptv8k.top/dl/jspd.php?id=2$1920x1080
 无线新闻台,https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40$1920x1080
 无线新闻台,https://nothingbe.serv00.net/tvb.php?id=C&type=hd$1920x1080
@@ -313,4 +311,3 @@ TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8$1920x1080
 中天亚洲,http://ku9.fr.to/smt.php?id=ctiasia_twn$1920x1080
 中天亚洲台,http://ku9.fr.to/smt.php?id=ctiasia_twn$1920x1080
 中天娱乐,https://stream1.freetv.fun/zhong-tian-yu-le-3.m3u8
-中天综合台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctizhonghe
