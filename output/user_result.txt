@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-02-11 18:23:14,url
+2025-02-12 06:25:14,url
 港澳频道,#genre#
 TVB翡翠剧集,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8$1920x1080
 TVB明珠剧集,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8$1920x1080
@@ -8,6 +8,12 @@ TVB明珠剧集,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8$1920x1080
 TVBS欢乐台,http://37.27.111.214:8080/live/24/hls.m3u8$1920x1080
 TVBS新闻台,http://125.227.210.55:8186/VideoInput/play.ts$1920x1080
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8$1920x1080
+大爱1台,https://pulltv2.wanfudaluye.com/live/tv1.m3u8
+大爱1,https://pulltv2.wanfudaluye.com/live/tv1.m3u8
+大爱2台,http://pulltv2.wanfudaluye.com/live/tv2.m3u8
+大爱2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+大爱2,http://pulltv2.wanfudaluye.com/live/tv2.m3u8
+大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 东森财经,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV03.m3u8
 东森财经,https://raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV03.m3u8
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
@@ -98,5 +104,5 @@ TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8$1920x1080
 中天新闻台,http://cdn.iptv8k.top/dl/jspd.php?id=1$1920x1080
 中天新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 中天新闻台,http://cdn.iptv8k.top/dl/jspd.php?id=23$1920x1080
-中天亚洲,http://ku9.fr.to/smt.php?id=ctiasia_twn$1920x1080
-中天亚洲台,http://ku9.fr.to/smt.php?id=ctiasia_twn$1920x1080
+中天亚洲,http://ku9.fr.to/smt.php?id=ctiasia_twn
+中天亚洲台,http://ku9.fr.to/smt.php?id=ctiasia_twn
