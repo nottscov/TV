@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-02-16 06:24:49,url
+2025-02-16 18:24:26,url
 港澳频道,#genre#
 TVB翡翠剧集,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8$1920x1080
 TVB明珠剧集,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8$1920x1080
