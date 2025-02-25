@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="2025-02-25 18:21:46" tvg-logo="https://live.fanmingming.com/tv/2025-02-25 18:21:46.png" group-title="更新时间",2025-02-25 18:21:46
+#EXTINF:-1 tvg-name="2025-02-26 06:26:35" tvg-logo="https://live.fanmingming.com/tv/2025-02-26 06:26:35.png" group-title="更新时间",2025-02-26 06:26:35
 url
 #EXTINF:-1 tvg-name="TVB翡翠剧集" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠剧集.png" group-title="港澳频道",TVB翡翠剧集
 http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8$1920x1080
@@ -189,3 +189,7 @@ http://cdn.iptv8k.top/dl/jspd.php?id=1$1920x1080
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 #EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" group-title="港澳频道",中天新闻台
 http://cdn.iptv8k.top/dl/jspd.php?id=23$1920x1080
+#EXTINF:-1 tvg-name="中天亚洲" tvg-logo="https://live.fanmingming.com/tv/中天亚洲.png" group-title="港澳频道",中天亚洲
+http://ku9.fr.to/smt.php?id=ctiasia_twn$1920x1080
+#EXTINF:-1 tvg-name="中天亚洲台" tvg-logo="https://live.fanmingming.com/tv/中天亚洲台.png" group-title="港澳频道",中天亚洲台
+http://ku9.fr.to/smt.php?id=ctiasia_twn$1920x1080

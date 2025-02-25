@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-02-25 18:21:46,url
+2025-02-26 06:26:35,url
 港澳频道,#genre#
 TVB翡翠剧集,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8$1920x1080
 TVB明珠剧集,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8$1920x1080
@@ -95,3 +95,5 @@ TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8$1920x1080
 中天新闻台,http://cdn.iptv8k.top/dl/jspd.php?id=1$1920x1080
 中天新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 中天新闻台,http://cdn.iptv8k.top/dl/jspd.php?id=23$1920x1080
+中天亚洲,http://ku9.fr.to/smt.php?id=ctiasia_twn$1920x1080
+中天亚洲台,http://ku9.fr.to/smt.php?id=ctiasia_twn$1920x1080
