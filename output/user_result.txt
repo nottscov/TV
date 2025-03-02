@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-03-02 18:21:25,url
+2025-03-03 06:26:38,url
 港澳频道,#genre#
 TVB翡翠剧集,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8$1920x1080
 TVB明珠剧集,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8$1920x1080
@@ -75,6 +75,7 @@ TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8$1920x1080
 民视新闻hd,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8$1920x1080
 民视新闻hd,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8$1920x1080
 民视新闻hd,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8?blog.ntnas.top$1920x1080
+nhkworld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 三立新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 三立综合台,http://37.27.111.214:8080/live/31/hls.m3u8$1920x1080
 台视新闻台,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8$1920x1080

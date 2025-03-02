@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="2025-03-02 18:21:25" tvg-logo="https://live.fanmingming.com/tv/2025-03-02 18:21:25.png" group-title="更新时间",2025-03-02 18:21:25
+#EXTINF:-1 tvg-name="2025-03-03 06:26:38" tvg-logo="https://live.fanmingming.com/tv/2025-03-03 06:26:38.png" group-title="更新时间",2025-03-03 06:26:38
 url
 #EXTINF:-1 tvg-name="TVB翡翠剧集" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠剧集.png" group-title="港澳频道",TVB翡翠剧集
 http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8$1920x1080
@@ -149,6 +149,8 @@ http://38.64.72.148/hls/modn/list/4012/playlist.m3u8$1920x1080
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8$1920x1080
 #EXTINF:-1 tvg-name="民视新闻hd" tvg-logo="https://live.fanmingming.com/tv/民视新闻hd.png" group-title="港澳频道",民视新闻hd
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8?blog.ntnas.top$1920x1080
+#EXTINF:-1 tvg-name="nhkworld" tvg-logo="https://live.fanmingming.com/tv/nhkworld.png" group-title="港澳频道",nhkworld
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-name="三立新闻台" tvg-logo="https://live.fanmingming.com/tv/三立新闻台.png" group-title="港澳频道",三立新闻台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 #EXTINF:-1 tvg-name="三立综合台" tvg-logo="https://live.fanmingming.com/tv/三立综合台.png" group-title="港澳频道",三立综合台
