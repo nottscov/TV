@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-03-29 18:20:13,url
+2025-03-30 06:25:52,url
 港澳频道,#genre#
 AMC电影台,https://stream1.freetv.fun/amcdian-ying-2.m3u8
 TVB翡翠剧集,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
@@ -30,15 +30,15 @@ TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 东森综合台,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40$1920x1080
 东森综合台,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40$1920x1080
 动物星球,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8$3840x2160
-番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8?blog.ntnas.top
-番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
-番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
-番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8$1920x1080
+番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8$1920x1080
+番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8?blog.ntnas.top$1920x1080
+番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8$1920x1080
+番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8$1920x1080
+番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8$1920x1080
+番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8$1920x1080
+番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8$1920x1080
+番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8$1920x1080
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://r.jdshipin.com/qrfbg
 翡翠台,http://r.jdshipin.com/62WM7
