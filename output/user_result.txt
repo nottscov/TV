@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-03-30 06:25:52,url
+2025-03-30 18:20:47,url
 港澳频道,#genre#
 AMC电影台,https://stream1.freetv.fun/amcdian-ying-2.m3u8
 TVB翡翠剧集,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
@@ -20,6 +20,7 @@ TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 八大精彩台,https://stream1.freetv.fun/ba-da-jing-cai-1.ctv
 八大综合台,https://stream1.freetv.fun/ba-da-zong-he-2.m3u8
 八大综合台,https://stream1.freetv.fun/ba-da-zong-he-1.m3u8
+大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 东森财经,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV03.m3u8
 东森财经,https://raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV03.m3u8
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$1920x1080
