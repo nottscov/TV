@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-04-05 18:19:37,url
+2025-04-06 06:25:15,url
 港澳频道,#genre#
 AMC电影台,https://stream1.freetv.fun/amcdian-ying-2.m3u8
 TVB翡翠剧集,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
